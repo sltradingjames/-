@@ -1,0 +1,6 @@
+{
+  "name": "울산누수종합방수설",
+  "description": "울산 및 경주 전지역 미세누수 정밀탐지, 종합방수, 배관공사, 욕실리모델링, 고압세척 전문 설비 업체 공식 웹사이트 및 실시간 관리 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
